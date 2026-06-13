@@ -84,3 +84,17 @@ npm run dev
 **Saloni Jain**
 
 Aspiring AI/ML Engineer | Python | Machine Learning | Web Development
+
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home-page.png)
+
+### Recipe Generator
+![Recipe Generator](screenshots/recipe-generator.png)
+
+### Generated Recipe
+![Generated Recipe](screenshots/generated-recipe.png)
+
+### Saved Recipes
+![Saved Recipes](screenshots/saved-recipes.png)
