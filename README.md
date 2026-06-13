@@ -87,8 +87,7 @@ Aspiring AI/ML Engineer | Python | Machine Learning | Web Development
 
 ## Screenshots
 
-### Home Page
-![Home Page]‎
+### Home Page‎
 
 ### Recipe Generator
 
