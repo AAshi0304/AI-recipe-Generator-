@@ -1,0 +1,5 @@
+{
+  "name": "your personal chief ",
+  "description": "An AI-powered recipe generator that allows users to create, save, and favorite recipes based on the ingredients they have. All data is saved locally in your browser.",
+  "requestFramePermissions": []
+}
